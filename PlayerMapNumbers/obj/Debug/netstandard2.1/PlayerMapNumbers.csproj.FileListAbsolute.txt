@@ -1,0 +1,11 @@
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.csproj.AssemblyReference.cache
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PluginInfo.cs
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.AssemblyInfoInputs.cache
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.AssemblyInfo.cs
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.csproj.CoreCompileInputs.cache
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\bin\Debug\netstandard2.1\PlayerMapNumbers.deps.json
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\bin\Debug\netstandard2.1\PlayerMapNumbers.dll
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\bin\Debug\netstandard2.1\PlayerMapNumbers.pdb
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.dll
+D:\dslog\Documents\Lethal Company Modding\MapNumbers\PlayerMapNumbers\obj\Debug\netstandard2.1\PlayerMapNumbers.pdb
