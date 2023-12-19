@@ -10,6 +10,6 @@ This is wholely untested, especially with the more/late company mods! So use at 
 
 # Example of how it looks
 
-![Example image](https://github.com/dslogget/LethalCompany_PlayerMapNumbers/blob/main/example.png)
+![Example image](https://raw.githubusercontent.com/dslogget/LethalCompany_PlayerMapNumbers/main/example.png)
 
 
