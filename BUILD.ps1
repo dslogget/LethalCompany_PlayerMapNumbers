@@ -11,7 +11,7 @@ Pop-Location
 mkdir -Force "BepInEx/plugins"
 Move-Item -Force "build/*.dll" "BepInEx/plugins" 
 
-$items = "manifest.json","README.md","CHANGELOG.md","BepInEx"
+$items = "manifest.json","README.md","CHANGELOG.md","BepInEx","icon.png"
 if (Test-Path $zipNameFinal) {
     Remove-Item $zipNameFinal -verbose
 }

@@ -50,6 +50,7 @@ namespace PlayerMapNumbers
                 labelObject.transform.localScale = Vector3.one / 2.0f;
                 labelObject.layer = parent.layer;
                 labelObject.name = "PlayerNumberLabel";
+                labelObject.AddComponent<KeepNorth>();
                 textRef = labelObject.AddComponent<TextMeshPro>();
                 textRef.alignment = TextAlignmentOptions.Center;
                 textRef.autoSizeTextContainer = true;
@@ -79,6 +80,19 @@ namespace PlayerMapNumbers
             }
         }
 
+    }
+
+    public class KeepNorth : MonoBehaviour
+    {
+        public void Awake()
+        {
+        }
+
+        public void Update()
+        {
+            // Lock to north, which is actully not on the expected vector
+            gameObject.transform.rotation = Quaternion.Euler(90, -45, 0);
+        }
     }
 
     [HarmonyPatch(typeof(ManualCameraRenderer), "Awake")]
