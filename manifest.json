@@ -1,0 +1,18 @@
+{
+    "name": "OW_Nerds_Modpack",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/dslogget/LethalCompany_OWNerdsModpack",
+    "description": "Modpack for the OWNerds server",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.7.2",
+        "anormaltwig-LateCompany-1.0.6",
+        "Sligili-More_Emotes-1.2.2",
+        "RugbugRedfern-Skinwalkers-2.0.1",
+        "anormaltwig-TerminalExtras-1.0.1",
+        "NotAtomicBomb-TerminalApi-1.4.0",
+        "NotAtomicBomb-TimeCommand-1.0.2",
+        "kRYstall9-FastSwitchPlayerViewInRadar-1.3.1",
+        "NotAtomicBomb-Terminal_History-1.0.1"
+    ]
+}
