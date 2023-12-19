@@ -1,6 +1,6 @@
 {
     "name": "PlayerMapNumbers",
-    "version_number": "0.0.4",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/dslogget/LethalCompany_PlayerMapNumbers",
     "description": "Adds numbers over player radar icons, and enables switching using numbers",
     "dependencies": [
