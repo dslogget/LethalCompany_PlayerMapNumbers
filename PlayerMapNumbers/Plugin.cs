@@ -46,7 +46,11 @@ namespace PlayerMapNumbers
             if (script!=null&& script.isPlayerDead )
             {
                 StaticLogger.LogInfo("Dead");
-                if ( script.deadBody != null )
+                if ( script.redirectToEnemy != null )
+                {
+                    parent = script.redirectToEnemy.transform.Find("Misc")?.Find("MapDot")?.gameObject;
+                }
+                else if ( script.deadBody != null )
                 {
                     StaticLogger.LogInfo("Has body");
                     parent = script.deadBody.transform.Find("MapDot")?.gameObject;
